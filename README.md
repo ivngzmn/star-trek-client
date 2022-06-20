@@ -1,12 +1,12 @@
 # Star Trek API Client
 
-Star Trek is an American science fiction media franchise created by Gene Roddenberry, which began with the eponymous 1960s television series and quickly became a worldwide pop-culture phenomenon. The franchise has expanded into various films, television series, video games, novels, and comic books. With an estimated $10.6 billion in revenue, it is one of the most recognizable and highest-grossing media franchises of all time. [Wikipidia](https://en.wikipedia.org/wiki/Star_Trek)
+Star Trek is an American science fiction media franchise created by Gene Roddenberry, which began with the eponymous 1960s television series and quickly became a worldwide pop-culture phenomenon. The franchise has expanded into various films, television series, video games, novels, and comic books. With an estimated $10.6 billion in revenue, it is one of the most recognizable and highest-grossing media franchises of all time. [Wikipedia](https://en.wikipedia.org/wiki/Star_Trek)
 
-This project is the front end that consumes the [Star Trek Guid to Aliens api](http://star-trek-beta.vercel.app/). Please take a look at the backend repo here [Star Trek Guid to Aliens Repo](https://github.com/ivngzmn/star-trek-server) to experience the API to its fullest.
+This project is the front end that consumes the [Star Trek Guid to Aliens api](https://star-trek-node-express-api.herokuapp.com/). Please take a look at the backend repo here [Star Trek Guid to Aliens Repo](https://github.com/ivngzmn/star-trek-server) to experience the API to its fullest.
 
 Live long and prosper.
 
-**Link to project:** [Star Trek Front End](https://star-trek-node-express-api.herokuapp.com/)
+**Link to project:** [Star Trek Front End](http://star-trek-beta.vercel.app/)
 
 <!-- ![app image](#) Image Gif in the works -->
 
